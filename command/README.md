@@ -1,5 +1,7 @@
 ## Command pattern
 
+**COMPOSITE**
+
 Útil para reducir condicionales y permitir la extensibilidad de las clases. Relacionado con el principio Open-Closed.
 
 
